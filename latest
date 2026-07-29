@@ -1,8 +1,8 @@
 {
-  "version": "2.97.0",
-  "file": "MediaStackConsole-Setup-2.97.0.exe",
-  "url": "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.97.0/MediaStackConsole-Setup-2.97.0.exe",
-  "sha256": "50FCB6202F9B63B137369D4D3D3B4DC819167577CFD887F393A59FFAD85A2136",
-  "notes": "Clearer messages when a server cannot be reached.",
-  "published": "2026-07-29T19:45:00Z"
+    "version":  "2.98.0",
+    "file":  "MediaStackConsole-Setup-2.98.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.98.0/MediaStackConsole-Setup-2.98.0.exe",
+    "sha256":  "A9D163D5F4001F63A1985A7886CF92DDCB3CCCECAB3E1AED36B2C88C284335C5",
+    "notes":  "Automatic Debian server setup and first-run wizard fixes.",
+    "published":  "2026-07-29T20:24:47Z"
 }
