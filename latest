@@ -1,8 +1,8 @@
 {
-    "version":  "2.99.0",
-    "file":  "MediaStackConsole-Setup-2.99.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.99.0/MediaStackConsole-Setup-2.99.0.exe",
-    "sha256":  "41F826F938719C5FB335D402056CAB09A88427D1E2C7A4D088E1CC466576383D",
-    "notes":  "Safely change remote server folders and import a Linux WireGuard .conf for Mullvad setup.",
-    "published":  "2026-07-29T20:55:07Z"
+    "version":  "2.100.0",
+    "file":  "MediaStackConsole-Setup-2.100.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.100.0/MediaStackConsole-Setup-2.100.0.exe",
+    "sha256":  "16CB75785E66E38EBD022B55D574A26A74A5C406AA8B8D27E5D157651BCBF5CB",
+    "notes":  "Fixes remote Debian setup stopping during upload with Parameter mode. Setup can safely resume the existing server folder.",
+    "published":  "2026-07-29T21:02:56Z"
 }
