@@ -1,8 +1,8 @@
 {
-    "version":  "2.105.0",
-    "file":  "MediaStackConsole-Setup-2.105.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.105.0/MediaStackConsole-Setup-2.105.0.exe",
-    "sha256":  "AF7C45F1E2A46E70EC0C5929E4036D9283504DE79650CA52A5260222372A4624",
-    "notes":  "Setup now detects a changed SSH server identity, shows the saved and presented fingerprints, and after one confirmation replaces only that server and port in Windows known_hosts. It then reauthorizes the Windows key and proves passwordless SSH works before continuing. Diagnostic timestamps are no longer mistaken for IPv6 addresses.",
-    "published":  "2026-07-29T22:49:59Z"
+    "version":  "2.106.0",
+    "file":  "MediaStackConsole-Setup-2.106.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.106.0/MediaStackConsole-Setup-2.106.0.exe",
+    "sha256":  "FF8164EEA353AC36D2AE4241E56410EA1F066EB5C83CBF6EFBD7AB26212102F2",
+    "notes":  "Remote setup now falls back from Windows ssh-keyscan to the real OpenSSH client when newer Debian/OpenSSH servers use incompatible key exchange. The identity probe ignores broken user SSH options, never authenticates or prompts for a password, accepts valid partial keyscan results, validates host-key blobs, supports custom ports and changed/hashed entries, and removes its one-use public-key file. All managed SSH operations now ignore unrelated user config while continuing to use Windows known_hosts.",
+    "published":  "2026-07-29T23:08:37Z"
 }
