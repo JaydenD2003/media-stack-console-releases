@@ -1,8 +1,8 @@
 {
-    "version":  "2.100.0",
-    "file":  "MediaStackConsole-Setup-2.100.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.100.0/MediaStackConsole-Setup-2.100.0.exe",
-    "sha256":  "16CB75785E66E38EBD022B55D574A26A74A5C406AA8B8D27E5D157651BCBF5CB",
-    "notes":  "Fixes remote Debian setup stopping during upload with Parameter mode. Setup can safely resume the existing server folder.",
-    "published":  "2026-07-29T21:02:56Z"
+    "version":  "2.101.0",
+    "file":  "MediaStackConsole-Setup-2.101.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.101.0/MediaStackConsole-Setup-2.101.0.exe",
+    "sha256":  "9C6A89C13F6FB826F2F17771A9EA2BFACD6CB3696DE0461AB9B0C73780D959E6",
+    "notes":  "Setup resumes safely, reuses the existing Debian stack, verifies all seven containers, restores the owned VPN settings, and shows live progress before Save and finish unlocks.",
+    "published":  "2026-07-29T21:43:04.3395126Z"
 }
