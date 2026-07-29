@@ -1,8 +1,8 @@
 {
-    "version":  "2.104.0",
-    "file":  "MediaStackConsole-Setup-2.104.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.104.0/MediaStackConsole-Setup-2.104.0.exe",
-    "sha256":  "7AA55F72556A11AE9EF5799B51B5D64FE14FE09642A6223BC3CB91F9D6DFB9C7",
-    "notes":  "Remote Verify now passes the generated SSH key explicitly, keeps Docker checks independent of the Compose folder, shows the exact connection failure, collects SSH, Docker, Compose, container status, and recent service logs, redacts credentials and identifying values, and automatically imports the report into the private media-stack-diagnostics GitHub repository.",
-    "published":  "2026-07-29T22:35:35Z"
+    "version":  "2.105.0",
+    "file":  "MediaStackConsole-Setup-2.105.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.105.0/MediaStackConsole-Setup-2.105.0.exe",
+    "sha256":  "AF7C45F1E2A46E70EC0C5929E4036D9283504DE79650CA52A5260222372A4624",
+    "notes":  "Setup now detects a changed SSH server identity, shows the saved and presented fingerprints, and after one confirmation replaces only that server and port in Windows known_hosts. It then reauthorizes the Windows key and proves passwordless SSH works before continuing. Diagnostic timestamps are no longer mistaken for IPv6 addresses.",
+    "published":  "2026-07-29T22:49:59Z"
 }
