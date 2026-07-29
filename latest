@@ -1,8 +1,8 @@
 {
-    "version":  "2.101.0",
-    "file":  "MediaStackConsole-Setup-2.101.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.101.0/MediaStackConsole-Setup-2.101.0.exe",
-    "sha256":  "9C6A89C13F6FB826F2F17771A9EA2BFACD6CB3696DE0461AB9B0C73780D959E6",
-    "notes":  "Setup resumes safely, reuses the existing Debian stack, verifies all seven containers, restores the owned VPN settings, and shows live progress before Save and finish unlocks.",
-    "published":  "2026-07-29T21:43:04.3395126Z"
+    "version":  "2.102.0",
+    "file":  "MediaStackConsole-Setup-2.102.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.102.0/MediaStackConsole-Setup-2.102.0.exe",
+    "sha256":  "6BDA3246B7E87EB57B3E69E29A655CC410DE230E1874C0C631A68CEEB4CE78FB",
+    "notes":  "Fixes an existing remote Debian stack being miscounted. Setup now verifies all seven Compose services and reads the Arr API keys directly over SSH without reinstalling the server.",
+    "published":  "2026-07-29T21:55:48.4574044Z"
 }
