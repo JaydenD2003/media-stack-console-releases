@@ -1,8 +1,8 @@
 {
-    "version":  "2.98.0",
-    "file":  "MediaStackConsole-Setup-2.98.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.98.0/MediaStackConsole-Setup-2.98.0.exe",
-    "sha256":  "A9D163D5F4001F63A1985A7886CF92DDCB3CCCECAB3E1AED36B2C88C284335C5",
-    "notes":  "Automatic Debian server setup and first-run wizard fixes.",
-    "published":  "2026-07-29T20:24:47Z"
+    "version":  "2.99.0",
+    "file":  "MediaStackConsole-Setup-2.99.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.99.0/MediaStackConsole-Setup-2.99.0.exe",
+    "sha256":  "41F826F938719C5FB335D402056CAB09A88427D1E2C7A4D088E1CC466576383D",
+    "notes":  "Safely change remote server folders and import a Linux WireGuard .conf for Mullvad setup.",
+    "published":  "2026-07-29T20:55:07Z"
 }
