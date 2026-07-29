@@ -1,8 +1,8 @@
 {
-    "version":  "2.102.0",
-    "file":  "MediaStackConsole-Setup-2.102.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.102.0/MediaStackConsole-Setup-2.102.0.exe",
-    "sha256":  "6BDA3246B7E87EB57B3E69E29A655CC410DE230E1874C0C631A68CEEB4CE78FB",
-    "notes":  "Fixes an existing remote Debian stack being miscounted. Setup now verifies all seven Compose services and reads the Arr API keys directly over SSH without reinstalling the server.",
-    "published":  "2026-07-29T21:55:48.4574044Z"
+    "version":  "2.104.0",
+    "file":  "MediaStackConsole-Setup-2.104.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.104.0/MediaStackConsole-Setup-2.104.0.exe",
+    "sha256":  "7AA55F72556A11AE9EF5799B51B5D64FE14FE09642A6223BC3CB91F9D6DFB9C7",
+    "notes":  "Remote Verify now passes the generated SSH key explicitly, keeps Docker checks independent of the Compose folder, shows the exact connection failure, collects SSH, Docker, Compose, container status, and recent service logs, redacts credentials and identifying values, and automatically imports the report into the private media-stack-diagnostics GitHub repository.",
+    "published":  "2026-07-29T22:35:35Z"
 }
