@@ -1,8 +1,8 @@
 {
-    "version":  "2.121.0",
-    "file":  "MediaStackConsole-Setup-2.121.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.121.0/MediaStackConsole-Setup-2.121.0.exe",
-    "sha256":  "D69409CDFCC05D2DF5373E8F655FA9CFB5D9454E5BB9829850AC6CBCC94C8F82",
-    "notes":  "Says why a finished download is not importing - a better copy already held, an unmatched release, nothing importable, or permissions - and clears the redundant ones.",
-    "published":  "2026-07-30T03:42:01Z"
+    "version":  "2.122.0",
+    "file":  "MediaStackConsole-Setup-2.122.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.122.0/MediaStackConsole-Setup-2.122.0.exe",
+    "sha256":  "5CAB284AE8F695D0BBEDCCA82067F84DF94D0875EB3AB58E5B6CD8E0206F11F3",
+    "notes":  "Fixes a finished download never importing: qBittorrent was saving into its own config volume, which Radarr and Sonarr cannot see. Points it at the shared /downloads mount and moves what is already stranded.",
+    "published":  "2026-07-30T03:51:07Z"
 }
