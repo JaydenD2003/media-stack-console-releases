@@ -1,8 +1,8 @@
 {
-    "version":  "2.123.0",
-    "file":  "MediaStackConsole-Setup-2.123.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.123.0/MediaStackConsole-Setup-2.123.0.exe",
-    "sha256":  "25B9131593F61D535C491875C69D8C1FAB7EED4E0153E08A46C293C0F658DB54",
-    "notes":  "Checks and repairs a server stack every time the console opens, and fixes Cancel silently doing nothing because busybox wget cannot POST.",
-    "published":  "2026-07-30T03:55:43Z"
+    "version":  "2.124.0",
+    "file":  "MediaStackConsole-Setup-2.124.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.124.0/MediaStackConsole-Setup-2.124.0.exe",
+    "sha256":  "B9EA2947A56ED30D90F6046443EA8153373F3FA8C0186EFB32357C19A3D5190F",
+    "notes":  "Checks Jellyfin's API key at every launch and says where to get and paste one. qBittorrent downloads are repaired into the quarantine folders this console already creates.",
+    "published":  "2026-07-30T04:29:10Z"
 }
