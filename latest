@@ -1,8 +1,8 @@
 {
-    "version":  "2.115.0",
-    "file":  "MediaStackConsole-Setup-2.115.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.115.0/MediaStackConsole-Setup-2.115.0.exe",
-    "sha256":  "2736887955315426EBD844AE567E7B1898FF9B5CE079E4825883EA1A5BF00501",
-    "notes":  "Keeps the plain Tailscale address (http://machine-name) working, so the URL already in your apps does not have to change. Probes and repairs it first.",
-    "published":  "2026-07-30T02:19:16Z"
+    "version":  "2.116.0",
+    "file":  "MediaStackConsole-Setup-2.116.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.116.0/MediaStackConsole-Setup-2.116.0.exe",
+    "sha256":  "28560FF1AE8B7841AA0030698899CA48388FE784FF7D58D659AEAB8584DA7515",
+    "notes":  "The way in to Jellyfin now repairs itself every 15 minutes, on whichever machine runs it - local PC or Debian server - with no button to press.",
+    "published":  "2026-07-30T02:34:21Z"
 }
