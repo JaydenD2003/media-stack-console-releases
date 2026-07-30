@@ -1,8 +1,8 @@
 {
-    "version":  "2.117.0",
-    "file":  "MediaStackConsole-Setup-2.117.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.117.0/MediaStackConsole-Setup-2.117.0.exe",
-    "sha256":  "86EC54B7EF66B37C7C6AFA0C90BE4D6CF978359ED2CCED6EBDFD3BA59C438B04",
-    "notes":  "Checks and repairs the way in to Jellyfin the moment the console opens, then every 15 minutes, on whichever machine runs it.",
-    "published":  "2026-07-30T02:38:22Z"
+    "version":  "2.118.0",
+    "file":  "MediaStackConsole-Setup-2.118.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.118.0/MediaStackConsole-Setup-2.118.0.exe",
+    "sha256":  "BE7F67AEC946D51B7225BE415BC84ACFE72DA316EA4D452DBE91CC8407047402",
+    "notes":  "Server setup no longer assumes curl exists - it falls back to wget, to installing curl, or to the distribution's own Docker packages. Fixes setup stopping at the VPN step on a minimal Debian.",
+    "published":  "2026-07-30T02:50:24Z"
 }
