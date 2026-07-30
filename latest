@@ -1,8 +1,8 @@
 {
-    "version":  "2.120.0",
-    "file":  "MediaStackConsole-Setup-2.120.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.120.0/MediaStackConsole-Setup-2.120.0.exe",
-    "sha256":  "B22719B01DC09104BA9227DF2079D539446A4D70263B12B69801F5F74DD8A946",
-    "notes":  "Installing this update repairs a server stack on its own - VPN firewall ports and the Cloudflare indexer chain - and changes nothing on a desktop-only install.",
-    "published":  "2026-07-30T03:23:18Z"
+    "version":  "2.121.0",
+    "file":  "MediaStackConsole-Setup-2.121.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.121.0/MediaStackConsole-Setup-2.121.0.exe",
+    "sha256":  "D69409CDFCC05D2DF5373E8F655FA9CFB5D9454E5BB9829850AC6CBCC94C8F82",
+    "notes":  "Says why a finished download is not importing - a better copy already held, an unmatched release, nothing importable, or permissions - and clears the redundant ones.",
+    "published":  "2026-07-30T03:42:01Z"
 }
