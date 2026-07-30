@@ -1,8 +1,8 @@
 {
-    "version":  "2.116.0",
-    "file":  "MediaStackConsole-Setup-2.116.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.116.0/MediaStackConsole-Setup-2.116.0.exe",
-    "sha256":  "28560FF1AE8B7841AA0030698899CA48388FE784FF7D58D659AEAB8584DA7515",
-    "notes":  "The way in to Jellyfin now repairs itself every 15 minutes, on whichever machine runs it - local PC or Debian server - with no button to press.",
-    "published":  "2026-07-30T02:34:21Z"
+    "version":  "2.117.0",
+    "file":  "MediaStackConsole-Setup-2.117.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.117.0/MediaStackConsole-Setup-2.117.0.exe",
+    "sha256":  "86EC54B7EF66B37C7C6AFA0C90BE4D6CF978359ED2CCED6EBDFD3BA59C438B04",
+    "notes":  "Checks and repairs the way in to Jellyfin the moment the console opens, then every 15 minutes, on whichever machine runs it.",
+    "published":  "2026-07-30T02:38:22Z"
 }
