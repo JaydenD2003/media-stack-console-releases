@@ -1,8 +1,8 @@
 {
-    "version":  "2.110.0",
-    "file":  "MediaStackConsole-Setup-2.110.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.110.0/MediaStackConsole-Setup-2.110.0.exe",
-    "sha256":  "95E37551087FD176CCB32ACD18D6D2D6EBD021B67A28CAD7410444743D95181E",
-    "notes":  "Adding an indexer now prefills the base URL Prowlarr offers, sends a valid sync profile, and answers Cloudflare by setting up FlareSolverr and its tag. Includes the in-app updater and the remote API key and Gluetun firewall fixes.",
-    "published":  "2026-07-30T01:22:42Z"
+    "version":  "2.111.0",
+    "file":  "MediaStackConsole-Setup-2.111.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.111.0/MediaStackConsole-Setup-2.111.0.exe",
+    "sha256":  "9B48C798083364198FB273CE4092FFBBEFF819C2F153F1B47B293BD696B2E896",
+    "notes":  "Adding an indexer prefills the base URL Prowlarr offers, sends a valid sync profile, and answers Cloudflare by setting up FlareSolverr on whichever port the stack runs it on.",
+    "published":  "2026-07-30T01:29:53Z"
 }
