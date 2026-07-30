@@ -1,8 +1,8 @@
 {
-    "version":  "2.118.0",
-    "file":  "MediaStackConsole-Setup-2.118.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.118.0/MediaStackConsole-Setup-2.118.0.exe",
-    "sha256":  "BE7F67AEC946D51B7225BE415BC84ACFE72DA316EA4D452DBE91CC8407047402",
-    "notes":  "Server setup no longer assumes curl exists - it falls back to wget, to installing curl, or to the distribution's own Docker packages. Fixes setup stopping at the VPN step on a minimal Debian.",
-    "published":  "2026-07-30T02:50:24Z"
+    "version":  "2.119.0",
+    "file":  "MediaStackConsole-Setup-2.119.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.119.0/MediaStackConsole-Setup-2.119.0.exe",
+    "sha256":  "2CFE0545C12ADACB035975E3FF5558F1DA40E94259950FC78EB20553E02E91A7",
+    "notes":  "Fixes adds being blocked on a server stack by Media Gate, a Windows-only safeguard that cannot exist there, and stops adding an indexer from hanging while FlareSolverr addresses are tested.",
+    "published":  "2026-07-30T03:15:44Z"
 }
