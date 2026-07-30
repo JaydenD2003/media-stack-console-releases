@@ -1,8 +1,8 @@
 {
-    "version":  "2.109.0",
-    "file":  "MediaStackConsole-Setup-2.109.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.109.0/MediaStackConsole-Setup-2.109.0.exe",
-    "sha256":  "D25C36469434DE85744C9F3CB62F76C22E517DC7845C432A4245C0B1483134CD",
-    "notes":  "Updates now install themselves instead of opening a browser. Fixes the indexer list failing to load on a remote stack, and the Gluetun firewall that made qBittorrent and Prowlarr unreachable while the other services answered.",
-    "published":  "2026-07-30T01:03:06Z"
+    "version":  "2.110.0",
+    "file":  "MediaStackConsole-Setup-2.110.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.110.0/MediaStackConsole-Setup-2.110.0.exe",
+    "sha256":  "95E37551087FD176CCB32ACD18D6D2D6EBD021B67A28CAD7410444743D95181E",
+    "notes":  "Adding an indexer now prefills the base URL Prowlarr offers, sends a valid sync profile, and answers Cloudflare by setting up FlareSolverr and its tag. Includes the in-app updater and the remote API key and Gluetun firewall fixes.",
+    "published":  "2026-07-30T01:22:42Z"
 }
