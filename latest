@@ -1,8 +1,8 @@
 {
-    "version":  "2.112.0",
-    "file":  "MediaStackConsole-Setup-2.112.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.112.0/MediaStackConsole-Setup-2.112.0.exe",
-    "sha256":  "590E1FE9EE68C877870157184D08110A3CE3E45E5707FE89C4B8AF3C5D3FF6CB",
-    "notes":  "Checks and fixes every link a Cloudflare-protected indexer needs: FlareSolverr running, Prowlarr's proxy pointing somewhere that answers, its tag, and the indexers carrying that tag.",
-    "published":  "2026-07-30T01:46:54Z"
+    "version":  "2.113.0",
+    "file":  "MediaStackConsole-Setup-2.113.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.113.0/MediaStackConsole-Setup-2.113.0.exe",
+    "sha256":  "2D0906A6160D18843DAA505A5157D672AD012E1E3E1E4F727A690F4576840BA9",
+    "notes":  "Finds FlareSolverr by asking Docker for its address and port, instead of guessing names Prowlarr cannot resolve from inside the VPN container's network.",
+    "published":  "2026-07-30T01:57:54Z"
 }
