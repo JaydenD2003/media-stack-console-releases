@@ -1,8 +1,8 @@
 {
-    "version":  "2.107.0",
-    "file":  "MediaStackConsole-Setup-2.107.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.107.0/MediaStackConsole-Setup-2.107.0.exe",
-    "sha256":  "A39172EF9DB7D5E4A2E3F649FDC1517B95E117400EDF30F3974DDCDD4ADAA52B",
-    "notes":  "Fixes unfinished remote Debian setup by safely repairing top-level media folder permissions, correcting Prowlarr application payloads and Docker-internal URLs, reliably comparing direct server and VPN egress, retrying wiring after an update, and expanding sanitized diagnostics.",
-    "published":  "2026-07-29T23:42:08Z"
+    "version":  "2.108.0",
+    "file":  "MediaStackConsole-Setup-2.108.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.108.0/MediaStackConsole-Setup-2.108.0.exe",
+    "sha256":  "C74F7FCD761446002AFD77A815E021978CA3F70565D1E4FA415FECDF1EBD069C",
+    "notes":  "Fixes the bundled Prowlarr indexers failing to be added, stops the VPN address row flapping red on a working tunnel, adds a server folder browser with free space, and adds a duplicate movies/tv folder check and cleaner.",
+    "published":  "2026-07-30T00:28:53Z"
 }
