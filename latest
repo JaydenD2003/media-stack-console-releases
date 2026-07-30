@@ -1,8 +1,8 @@
 {
-    "version":  "2.114.0",
-    "file":  "MediaStackConsole-Setup-2.114.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.114.0/MediaStackConsole-Setup-2.114.0.exe",
-    "sha256":  "C74931D4A419F8D6CB84D9CAE605FFE9DDFF881E2363A54CEFF58A927B465897",
-    "notes":  "Measures every route a phone could use to reach Jellyfin, switches to one that answers, and can re-publish or reconnect Tailscale when none do. Runs once per update on its own.",
-    "published":  "2026-07-30T02:12:33Z"
+    "version":  "2.115.0",
+    "file":  "MediaStackConsole-Setup-2.115.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.115.0/MediaStackConsole-Setup-2.115.0.exe",
+    "sha256":  "2736887955315426EBD844AE567E7B1898FF9B5CE079E4825883EA1A5BF00501",
+    "notes":  "Keeps the plain Tailscale address (http://machine-name) working, so the URL already in your apps does not have to change. Probes and repairs it first.",
+    "published":  "2026-07-30T02:19:16Z"
 }
