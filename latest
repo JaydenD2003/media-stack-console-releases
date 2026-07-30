@@ -1,8 +1,8 @@
 {
-    "version":  "2.122.0",
-    "file":  "MediaStackConsole-Setup-2.122.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.122.0/MediaStackConsole-Setup-2.122.0.exe",
-    "sha256":  "5CAB284AE8F695D0BBEDCCA82067F84DF94D0875EB3AB58E5B6CD8E0206F11F3",
-    "notes":  "Fixes a finished download never importing: qBittorrent was saving into its own config volume, which Radarr and Sonarr cannot see. Points it at the shared /downloads mount and moves what is already stranded.",
-    "published":  "2026-07-30T03:51:07Z"
+    "version":  "2.123.0",
+    "file":  "MediaStackConsole-Setup-2.123.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.123.0/MediaStackConsole-Setup-2.123.0.exe",
+    "sha256":  "25B9131593F61D535C491875C69D8C1FAB7EED4E0153E08A46C293C0F658DB54",
+    "notes":  "Checks and repairs a server stack every time the console opens, and fixes Cancel silently doing nothing because busybox wget cannot POST.",
+    "published":  "2026-07-30T03:55:43Z"
 }
