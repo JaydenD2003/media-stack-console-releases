@@ -1,8 +1,8 @@
 {
-    "version":  "2.108.0",
-    "file":  "MediaStackConsole-Setup-2.108.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.108.0/MediaStackConsole-Setup-2.108.0.exe",
-    "sha256":  "C74F7FCD761446002AFD77A815E021978CA3F70565D1E4FA415FECDF1EBD069C",
-    "notes":  "Fixes the bundled Prowlarr indexers failing to be added, stops the VPN address row flapping red on a working tunnel, adds a server folder browser with free space, and adds a duplicate movies/tv folder check and cleaner.",
-    "published":  "2026-07-30T00:28:53Z"
+    "version":  "2.109.0",
+    "file":  "MediaStackConsole-Setup-2.109.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.109.0/MediaStackConsole-Setup-2.109.0.exe",
+    "sha256":  "D25C36469434DE85744C9F3CB62F76C22E517DC7845C432A4245C0B1483134CD",
+    "notes":  "Updates now install themselves instead of opening a browser. Fixes the indexer list failing to load on a remote stack, and the Gluetun firewall that made qBittorrent and Prowlarr unreachable while the other services answered.",
+    "published":  "2026-07-30T01:03:06Z"
 }
