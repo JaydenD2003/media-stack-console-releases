@@ -2,7 +2,7 @@
     "version":  "2.140.0",
     "file":  "MediaStackConsole-Setup-2.140.0.exe",
     "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.140.0/MediaStackConsole-Setup-2.140.0.exe",
-    "sha256":  "FAF725C4A2AB9194C7E02BB72C8184749F9B319F7FC234B6F3FD05B5C38F9CBA",
+    "sha256":  "C18E0FC8AA699248553418561EDCC566C9D1EB34E9E19DB1B6E30828E3959651",
     "notes":  "Adds visible, verified bulk setup for US movie indexers with alternate-address fallback and credential guidance. Remote ClamAV Media Gate failures now auto-repair Docker, refresh the ClamAV image, rebuild the gate and re-prove both health checks on console-owned stacks.",
-    "published":  "2026-07-31T17:40:42Z"
+    "published":  "2026-07-31T17:41:28Z"
 }
