@@ -1,8 +1,8 @@
 {
-    "version":  "2.147.0",
-    "file":  "MediaStackConsole-Setup-2.147.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.147.0/MediaStackConsole-Setup-2.147.0.exe",
-    "sha256":  "24C278138C2613C1DACB34F1B0F981AD151B42AFFFC6433CE5CAF1D2F1246F46",
-    "notes":  "Search now shows each movie or exact TV scope once, merges duplicate indexer listings safely, and prefers substantially healthier swarms. Download maintenance detects unusable B/s trickles, refreshes trackers, repairs stale scheduler state, and replaces downloads that remain dead.",
-    "published":  "2026-07-31T19:15:58Z"
+    "version":  "2.148.0",
+    "file":  "MediaStackConsole-Setup-2.148.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.148.0/MediaStackConsole-Setup-2.148.0.exe",
+    "sha256":  "37A517A1C7DE77FC0B451E92DF886D26996CE72FD4328696E0340DD62156DD97",
+    "notes":  "Automatically repairs qBittorrent error and missing-files states with a bounded file recheck, restart, tracker refresh and remote save-path repair. The Linux ClamAV gate now waits for qBittorrent to prove zero bytes remain, fails closed if qBittorrent is unreachable, avoids active or verifying downloads, and cleans premature older gate approvals during upgrade. Search now hides explicitly foreign-only and dubbed releases while keeping unlabelled English and English multi-audio copies.",
+    "published":  "2026-07-31T19:41:41Z"
 }
