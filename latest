@@ -1,8 +1,8 @@
 {
-    "version":  "2.137.0",
-    "file":  "MediaStackConsole-Setup-2.137.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.137.0/MediaStackConsole-Setup-2.137.0.exe",
-    "sha256":  "FF81AED56C4D90D701045A7F6F4FA80EEF34EACA6F26B65ED31BDC97144D4081",
-    "notes":  "Fixes stale Jellyfin viewers on Overview, adds server filesystem pickers for every remote path, upgrades local folder selection, and adds Ubuntu/AlmaLinux-aware Docker, Compose, and SELinux setup.",
-    "published":  "2026-07-31T16:58:01Z"
+    "version":  "2.138.0",
+    "file":  "MediaStackConsole-Setup-2.138.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.138.0/MediaStackConsole-Setup-2.138.0.exe",
+    "sha256":  "31F944B243915B42C303F2451794FE5B90A6821F63A11828375984F7C4BA63BB",
+    "notes":  "Remote Linux System checks now name and verify the ClamAV Media Gate instead of showing Windows Defender. Indexer setup can select all public movie-capable definitions or any subset and shows Adding, Added, or a specific failure on every row. Includes a guarded real-VM Ubuntu and AlmaLinux acceptance runner covering clean installation, enforcing SELinux on AlmaLinux, SSH reboot/reconnect, ClamAV EICAR rejection, and Jellyfin playback lifecycle. Automated suite: 4,673 passing tests.",
+    "published":  "2026-07-31T17:16:28Z"
 }
