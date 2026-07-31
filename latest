@@ -1,8 +1,8 @@
 {
-    "version":  "2.141.0",
-    "file":  "MediaStackConsole-Setup-2.141.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.141.0/MediaStackConsole-Setup-2.141.0.exe",
-    "sha256":  "327580710ADA9C150F9EEBDE82234A13C1140F172309EE8F652798193AC82F87",
-    "notes":  "Adds visible Repair actions and staged ClamAV recovery with Compose validation, pull retries, extended health waiting and final diagnostics. Bulk US indexer setup stays dark, shows animated live progress, runs three verified additions concurrently, repairs Prowlarr when its API disappears and avoids duplicate retries.",
-    "published":  "2026-07-31T17:57:13Z"
+    "version":  "2.142.0",
+    "file":  "MediaStackConsole-Setup-2.142.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.142.0/MediaStackConsole-Setup-2.142.0.exe",
+    "sha256":  "7805476EAB7B44BDE4B3D0A918195615EE0683DB81FC3ACD2FE1381389392E05",
+    "notes":  "Fresh Debian, Ubuntu and AlmaLinux remote installs now validate the combined Compose stack, retry image pulls, wait through ClamAV\u0027s initial definitions and require both antivirus containers to be healthy before setup succeeds. Includes v2.141 live ClamAV/Prowlarr healing and the redesigned fast dark bulk-indexer workflow.",
+    "published":  "2026-07-31T18:01:34Z"
 }
