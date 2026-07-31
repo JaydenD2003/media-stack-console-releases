@@ -1,8 +1,8 @@
 {
-    "version":  "2.138.0",
-    "file":  "MediaStackConsole-Setup-2.138.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.138.0/MediaStackConsole-Setup-2.138.0.exe",
-    "sha256":  "31F944B243915B42C303F2451794FE5B90A6821F63A11828375984F7C4BA63BB",
-    "notes":  "Remote Linux System checks now name and verify the ClamAV Media Gate instead of showing Windows Defender. Indexer setup can select all public movie-capable definitions or any subset and shows Adding, Added, or a specific failure on every row. Includes a guarded real-VM Ubuntu and AlmaLinux acceptance runner covering clean installation, enforcing SELinux on AlmaLinux, SSH reboot/reconnect, ClamAV EICAR rejection, and Jellyfin playback lifecycle. Automated suite: 4,673 passing tests.",
-    "published":  "2026-07-31T17:16:28Z"
+    "version":  "2.139.0",
+    "file":  "MediaStackConsole-Setup-2.139.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.139.0/MediaStackConsole-Setup-2.139.0.exe",
+    "sha256":  "6C36268DAAFEDF1665FA360073D1CCE7BE8C95304FC58EFB52540346432656F8",
+    "notes":  "Audio fixes now show real FFmpeg percentage, speed, and time remaining instead of a frozen bar. Optimize Storage can be closed while conversions continue in the application queue; successful fixes disappear immediately, the findings refresh automatically after completion, and audio-only jobs send the correct completion notification. Automated suite: 4,674 passing tests.",
+    "published":  "2026-07-31T17:30:57Z"
 }
