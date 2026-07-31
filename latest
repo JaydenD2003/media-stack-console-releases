@@ -1,8 +1,8 @@
 {
-    "version":  "2.134.0",
-    "file":  "MediaStackConsole-Setup-2.134.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.134.0/MediaStackConsole-Setup-2.134.0.exe",
-    "sha256":  "4D20C9B30FD1BF47BBFDE1B57F05863FC78395C93FEAAAC0A6E76F4FD6DE17DA",
-    "notes":  "Advanced movie collection discovery now uses Radarr\u0027s authoritative TMDB member lists, avoids library and queue duplicates, and adds polished loading shimmers. Update Refresh now reads the immutable latest GitHub Release directly, avoiding branch-file cache delays.",
-    "published":  "2026-07-31T15:08:26Z"
+    "version":  "2.135.0",
+    "file":  "MediaStackConsole-Setup-2.135.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.135.0/MediaStackConsole-Setup-2.135.0.exe",
+    "sha256":  "521EA00C7081AB199D6BAF4F89D117914C6FA4C52B52EC0C93524F55CDE0C79C",
+    "notes":  "Remote Debian installs now gain a ClamAV quarantine gate, remote libraries reconcile directly from Jellyfin, and search Add buttons show immediate progress in both table and cover views. Also improves collection search, activity and overview density, storage-audit clarity, loading states, and backend verification.",
+    "published":  "2026-07-31T15:52:53Z"
 }
