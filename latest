@@ -1,8 +1,8 @@
 {
-    "version":  "2.148.0",
-    "file":  "MediaStackConsole-Setup-2.148.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.148.0/MediaStackConsole-Setup-2.148.0.exe",
-    "sha256":  "37A517A1C7DE77FC0B451E92DF886D26996CE72FD4328696E0340DD62156DD97",
-    "notes":  "Automatically repairs qBittorrent error and missing-files states with a bounded file recheck, restart, tracker refresh and remote save-path repair. The Linux ClamAV gate now waits for qBittorrent to prove zero bytes remain, fails closed if qBittorrent is unreachable, avoids active or verifying downloads, and cleans premature older gate approvals during upgrade. Search now hides explicitly foreign-only and dubbed releases while keeping unlabelled English and English multi-audio copies.",
-    "published":  "2026-07-31T19:41:41Z"
+    "version":  "2.149.0",
+    "file":  "MediaStackConsole-Setup-2.149.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.149.0/MediaStackConsole-Setup-2.149.0.exe",
+    "sha256":  "C69FD6B4D5819ED2F61E306AC65978B5783A6D24A2ABD9B7C944AA5A276B557D",
+    "notes":  "Download recovery now diagnoses full storage, unwritable folders, missing files, network and tracker faults, and ordinary qBittorrent errors before acting. Console-owned remote stacks repair managed quarantine and affected payload permissions automatically. Full or unwritable storage pauses destructive replacement and preserves partial data instead of sending another copy into the same failure.",
+    "published":  "2026-07-31T20:46:12Z"
 }
