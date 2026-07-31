@@ -1,8 +1,8 @@
 {
-    "version":  "2.144.0",
-    "file":  "MediaStackConsole-Setup-2.144.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.144.0/MediaStackConsole-Setup-2.144.0.exe",
-    "sha256":  "1707EE7404129B7F0194AE4F2751586392BACED1E53F8B4FC5F6D2A758F2C2E4",
-    "notes":  "TV search now offers one-season, episode, and all/multi-season scopes with separate cover cards. Sonarr monitors exactly the seasons in a pack, and missing search posters recover through exact IDs plus Radarr/Sonarr artwork fallbacks.",
-    "published":  "2026-07-31T18:18:22Z"
+    "version":  "2.145.0",
+    "file":  "MediaStackConsole-Setup-2.145.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.145.0/MediaStackConsole-Setup-2.145.0.exe",
+    "sha256":  "FEC4970537317493D2B41736EFA21EC756AF15FDED23AD71FECC7AFFE59972B0",
+    "notes":  "Remote Linux repairs now safely recover older missing, unreadable, or root-owned console ownership markers through generated-stack fingerprint checks, direct SSH, sudo, Alpine, and BusyBox fallbacks. The System Repair button shows live animated stages and continues into ClamAV health and duplicate-folder repair.",
+    "published":  "2026-07-31T18:32:42Z"
 }
