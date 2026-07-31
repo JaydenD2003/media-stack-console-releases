@@ -1,8 +1,8 @@
 {
-    "version":  "2.146.0",
-    "file":  "MediaStackConsole-Setup-2.146.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.146.0/MediaStackConsole-Setup-2.146.0.exe",
-    "sha256":  "AAC28E321A2821E53F4A93C9836851C410B2F6F8001F3819037FA1585FC40416",
-    "notes":  "Fixes complete-series adds such as Attack on Titan S01-S04 packs, restores remote Linux Radarr/Sonarr poster and title lookup, and adds safer staged ClamAV recovery with useful diagnostics.",
-    "published":  "2026-07-31T18:45:39Z"
+    "version":  "2.147.0",
+    "file":  "MediaStackConsole-Setup-2.147.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.147.0/MediaStackConsole-Setup-2.147.0.exe",
+    "sha256":  "24C278138C2613C1DACB34F1B0F981AD151B42AFFFC6433CE5CAF1D2F1246F46",
+    "notes":  "Search now shows each movie or exact TV scope once, merges duplicate indexer listings safely, and prefers substantially healthier swarms. Download maintenance detects unusable B/s trickles, refreshes trackers, repairs stale scheduler state, and replaces downloads that remain dead.",
+    "published":  "2026-07-31T19:15:58Z"
 }
