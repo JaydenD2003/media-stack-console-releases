@@ -1,8 +1,8 @@
 {
-    "version":  "2.135.0",
-    "file":  "MediaStackConsole-Setup-2.135.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.135.0/MediaStackConsole-Setup-2.135.0.exe",
-    "sha256":  "521EA00C7081AB199D6BAF4F89D117914C6FA4C52B52EC0C93524F55CDE0C79C",
-    "notes":  "Remote Debian installs now gain a ClamAV quarantine gate, remote libraries reconcile directly from Jellyfin, and search Add buttons show immediate progress in both table and cover views. Also improves collection search, activity and overview density, storage-audit clarity, loading states, and backend verification.",
-    "published":  "2026-07-31T15:52:53Z"
+    "version":  "2.136.0",
+    "file":  "MediaStackConsole-Setup-2.136.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.136.0/MediaStackConsole-Setup-2.136.0.exe",
+    "sha256":  "01B2CE4A196DDF3BB8543E38ABE22C1DB809D86DFA102B3F2521CEE9AE767596",
+    "notes":  "Adds automatic ClamAV and Media Gate repair for console-owned Debian stacks, recurring six-hour folder integrity checks, safe duplicate-folder cleanup, saved-path reconciliation, and stronger remote ownership safeguards.",
+    "published":  "2026-07-31T16:36:57Z"
 }
