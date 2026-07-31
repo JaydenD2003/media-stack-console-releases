@@ -1,8 +1,8 @@
 {
-    "version":  "2.145.0",
-    "file":  "MediaStackConsole-Setup-2.145.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.145.0/MediaStackConsole-Setup-2.145.0.exe",
-    "sha256":  "FEC4970537317493D2B41736EFA21EC756AF15FDED23AD71FECC7AFFE59972B0",
-    "notes":  "Remote Linux repairs now safely recover older missing, unreadable, or root-owned console ownership markers through generated-stack fingerprint checks, direct SSH, sudo, Alpine, and BusyBox fallbacks. The System Repair button shows live animated stages and continues into ClamAV health and duplicate-folder repair.",
-    "published":  "2026-07-31T18:32:42Z"
+    "version":  "2.146.0",
+    "file":  "MediaStackConsole-Setup-2.146.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.146.0/MediaStackConsole-Setup-2.146.0.exe",
+    "sha256":  "AAC28E321A2821E53F4A93C9836851C410B2F6F8001F3819037FA1585FC40416",
+    "notes":  "Fixes complete-series adds such as Attack on Titan S01-S04 packs, restores remote Linux Radarr/Sonarr poster and title lookup, and adds safer staged ClamAV recovery with useful diagnostics.",
+    "published":  "2026-07-31T18:45:39Z"
 }
