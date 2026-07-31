@@ -1,8 +1,8 @@
 {
-    "version":  "2.132.0",
-    "file":  "MediaStackConsole-Setup-2.132.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.132.0/MediaStackConsole-Setup-2.132.0.exe",
-    "sha256":  "7C0EAA228D14D6B0792A5CCA00D21B855DCA32FD4696249210574FCC91AD89DA",
-    "notes":  "Manual Refresh now bypasses GitHub\u0027s one-minute API cache, so newly published releases appear immediately. Includes the completed audit, faster loading screen, compact scrollable Activity page, aligned Overview summary, and search/library edge-case repairs.",
-    "published":  "2026-07-31T14:45:10Z"
+    "version":  "2.133.0",
+    "file":  "MediaStackConsole-Setup-2.133.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.133.0/MediaStackConsole-Setup-2.133.0.exe",
+    "sha256":  "78BD15F876CC476E098AB011A7C5005D1CE863893FBB78D0EAF78B32491315B7",
+    "notes":  "Advanced movie collection discovery now uses Radarr\u0027s authoritative TMDB member lists, avoids library and queue duplicates, and adds polished loading shimmers for collection detection and details.",
+    "published":  "2026-07-31T15:03:08Z"
 }
