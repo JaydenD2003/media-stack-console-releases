@@ -1,8 +1,8 @@
 {
-    "version":  "2.125.0",
-    "file":  "MediaStackConsole-Setup-2.125.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.125.0/MediaStackConsole-Setup-2.125.0.exe",
-    "sha256":  "21951A26ADCABF3BC728ED499B17D8FEE35C9CBC64FC32E7AF3577A84D6ABEC3",
-    "notes":  "Settings is condensed: the four server-check rows become one Check and repair row, and Media Gate is hidden on a server where it can never apply.",
-    "published":  "2026-07-30T04:34:42Z"
+    "version":  "2.130.0",
+    "file":  "MediaStackConsole-Setup-2.130.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.130.0/MediaStackConsole-Setup-2.130.0.exe",
+    "sha256":  "86F2F96688ABF0DF1E23E5DFACA36AA50E592ECAB2F0D1DF206DF16127A620EE",
+    "notes":  "Completes the interrupted application audit; opens the loading screen sooner; compacts Activity into a scrollable selected-day view; aligns Overview\u0027s summary; repairs search identity, classification, confidence and library-presence edge cases; and wires the release publisher so Refresh is advanced only after the installer exists.",
+    "published":  "2026-07-31T14:37:34Z"
 }
