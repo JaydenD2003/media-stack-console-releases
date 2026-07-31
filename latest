@@ -1,8 +1,8 @@
 {
-    "version":  "2.143.0",
-    "file":  "MediaStackConsole-Setup-2.143.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.143.0/MediaStackConsole-Setup-2.143.0.exe",
-    "sha256":  "8C1692993F8EE24664FECCB200BC080038E3218F760ACF534EF5AEE223B19C35",
-    "notes":  "Fixes the live Alpine 3.22 ClamAV gate build by installing the verified clamav-clamdscan package and forces managed servers to rebuild gate version 2. Also fixes the bulk progress animation crash, adds a live WPF regression test, keeps dark loading, and clearly marks fully unavailable indexer batches.",
-    "published":  "2026-07-31T18:07:41Z"
+    "version":  "2.144.0",
+    "file":  "MediaStackConsole-Setup-2.144.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.144.0/MediaStackConsole-Setup-2.144.0.exe",
+    "sha256":  "1707EE7404129B7F0194AE4F2751586392BACED1E53F8B4FC5F6D2A758F2C2E4",
+    "notes":  "TV search now offers one-season, episode, and all/multi-season scopes with separate cover cards. Sonarr monitors exactly the seasons in a pack, and missing search posters recover through exact IDs plus Radarr/Sonarr artwork fallbacks.",
+    "published":  "2026-07-31T18:18:22Z"
 }
