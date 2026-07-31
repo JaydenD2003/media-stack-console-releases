@@ -1,8 +1,8 @@
 {
-    "version":  "2.130.0",
-    "file":  "MediaStackConsole-Setup-2.130.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.130.0/MediaStackConsole-Setup-2.130.0.exe",
-    "sha256":  "86F2F96688ABF0DF1E23E5DFACA36AA50E592ECAB2F0D1DF206DF16127A620EE",
-    "notes":  "Completes the interrupted application audit; opens the loading screen sooner; compacts Activity into a scrollable selected-day view; aligns Overview\u0027s summary; repairs search identity, classification, confidence and library-presence edge cases; and wires the release publisher so Refresh is advanced only after the installer exists.",
-    "published":  "2026-07-31T14:37:34Z"
+    "version":  "2.131.0",
+    "file":  "MediaStackConsole-Setup-2.131.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.131.0/MediaStackConsole-Setup-2.131.0.exe",
+    "sha256":  "DF644BB0EA463680E60FD642888CD8DAF28786829434CECBA5AA6447EAF2A425",
+    "notes":  "Makes Refresh see a newly published release immediately through GitHub\u0027s uncached Contents API. Includes the completed audit, faster loading screen, compact scrollable Activity page, aligned Overview summary, and search/library edge-case repairs from 2.130.0.",
+    "published":  "2026-07-31T14:42:09Z"
 }
