@@ -1,8 +1,8 @@
 {
-    "version":  "2.136.0",
-    "file":  "MediaStackConsole-Setup-2.136.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.136.0/MediaStackConsole-Setup-2.136.0.exe",
-    "sha256":  "01B2CE4A196DDF3BB8543E38ABE22C1DB809D86DFA102B3F2521CEE9AE767596",
-    "notes":  "Adds automatic ClamAV and Media Gate repair for console-owned Debian stacks, recurring six-hour folder integrity checks, safe duplicate-folder cleanup, saved-path reconciliation, and stronger remote ownership safeguards.",
-    "published":  "2026-07-31T16:36:57Z"
+    "version":  "2.137.0",
+    "file":  "MediaStackConsole-Setup-2.137.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.137.0/MediaStackConsole-Setup-2.137.0.exe",
+    "sha256":  "FF81AED56C4D90D701045A7F6F4FA80EEF34EACA6F26B65ED31BDC97144D4081",
+    "notes":  "Fixes stale Jellyfin viewers on Overview, adds server filesystem pickers for every remote path, upgrades local folder selection, and adds Ubuntu/AlmaLinux-aware Docker, Compose, and SELinux setup.",
+    "published":  "2026-07-31T16:58:01Z"
 }
