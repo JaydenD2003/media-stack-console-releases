@@ -1,7 +1,7 @@
 {
     "version":  "2.151.0",
     "file":  "MediaStackConsole-Setup-2.151.0.exe",
-    "url":  "https://github.com/JaydenD2003/media-stack-console-releases/releases/download/v2.151.0/MediaStackConsole-Setup-2.151.0.exe",
+    "url":  "https://github.com/JaydenD2003/media-stack-operations-console-releases/releases/download/v2.151.0/MediaStackConsole-Setup-2.151.0.exe",
     "sha256":  "BA58C65C210F42759322408AF42952399B017836A9766C8597D689391B1C5F62",
     "notes":  "Whole-collection downloads now verify every movie by live Radarr state, title, year and TMDB id. Unreleased or unavailable members wait automatically, temporary service failures receive guarded retries, and proven wrong partial duplicates are removed without touching the library copy.",
     "published":  "2026-08-01T05:25:23Z"
